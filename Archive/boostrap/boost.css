@@ -1,0 +1,46 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800|Raleway:400,200,100,300,500,600,700,800,900
+);
+body{
+    font-family: Open Sans, Arial, sans-serif ;
+	font-family: Helvetica, Arial, sans-serif, 'Raleway';
+	font-family: Raleway, Arial, sans-serif ;
+
+}
+header{
+    background-color:#27242b ;
+    border-bottom: 1px solid white;
+}
+nav img{
+    width: 20%;
+}
+/* 1ére partie */
+.present{
+    background-color:#27242b ;
+}
+.vert{
+ color: #3d9f96;
+}
+/* 2éme partie */
+.rs{
+    background-color:#f7f7f7;
+}
+/* 3éme partie */
+.monde{
+    background-image: url(/Archive/assets/img/map_bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+/* 4éme partie */
+.citation{
+    background-color: #27242b;
+}
+.rond{
+    width: 4%;
+}
+/* 8éme partie */
+.jurid{
+    background-color:	#f9f9f9;
+}
+.logo2{
+    width: 40%;
+}
